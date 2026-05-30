@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=radheesh-rd&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
   <a href="mailto:radeesh6776@gmail.com"><img src="https://img.shields.io/badge/Gmail-radeesh6776-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/radheesh-rd"><img src="https://img.shields.io/badge/LinkedIn-Radheesh%20R%20D-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/radheeshrd"><img src="https://img.shields.io/badge/LinkedIn-Radheesh%20R%20D-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <!-- TYPING HEADER -->
