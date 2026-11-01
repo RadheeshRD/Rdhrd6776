@@ -12,7 +12,7 @@
 
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Radheesh+%F0%9F%91%8B;Senior+Deployment+Engineer+%7C+3.5+Yrs+Exp;Transitioning+into+Data+Analytics+%F0%9F%93%88;Python+%7C+SQL+%7C+Power+BI+%7C+ML+Enthusiast;Building+Insights+from+Data+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Radheesh+%F0%9F%91%8B;Senior+Deployment+Engineer+%7C+4+Yrs+Exp;%F0%9F%93%88;Python+%7C+SQL+%7C+Power+BI+%7C+ML+Enthusiast;Building+Insights+from+Data+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
 ---
