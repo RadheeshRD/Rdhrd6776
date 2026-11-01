@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Radheesh%20R%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Deployment%20Engineer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Radheesh%20R%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Deployment%20Engineer%20%7C%2&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
